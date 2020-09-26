@@ -8,15 +8,15 @@ The Caesar Cipher: A famous cypher that encrypts/decrypts plaintext.
 - The shift displacement (password key) will vary between 1 and 25.
 
 ## Run:
-- Firs option: Encrypting:
+- Firs option: Encrypting
 
 <p align="center"> <img src="https://github.com/irving-rs/the_caesar_cipher/blob/master/Program_Execution_1.png"> </p>
 
-- Second option: Decrypting:
+- Second option: Decrypting
 
 <p align="center"> <img src="https://github.com/irving-rs/the_caesar_cipher/blob/master/Program_Execution_2.png"> </p>
 
 
-- Third option: Decrypting by brute force:
+- Third option: Decrypting by brute force
 
 <p align="center"> <img src="https://github.com/irving-rs/the_caesar_cipher/blob/master/Program_Execution_3.png"> </p>
